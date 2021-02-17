@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+table {
+    margin: 10px 10px 10px 10px;
+    color: #303030;
+}
+
+.cell1 {
+    background-color: #ff9999;
+}
+
+.cell2 {
+    background-color: #f0e68c;
+}
+
+.cell3 {
+    background-color: #ececfb;
+}
+
+.biggerFont {
+    font-size: 25pt;
+    margin: 0pt 50pt;
+}
+
+.bigFont {
+    font-size: 20pt;
+    font-weight: bold;
+    margin: 0pt 0pt 7pt 0pt;
+}
+
+.smallFont {
+    font-size: 18pt;
+    margin: 10pt 5pt;
+}
+
+.img1 {
+    width: 550px;
+    height: 310px;
+}
